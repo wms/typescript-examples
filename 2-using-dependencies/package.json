@@ -1,0 +1,19 @@
+{
+  "name": "2-using-dependencies",
+  "version": "1.0.0",
+  "description": "Example application using dependencies from NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "title-case": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.107",
+    "ts-node": "^6.0.0"
+  }
+}
