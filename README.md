@@ -6,5 +6,5 @@ To run the fourth example, a React application written, take the following steps
 
 ```bash
 $ npm install
-$ parcel index.html
+$ ./node_modules/.bin/parcel index.html
 ```
