@@ -8,3 +8,5 @@ To run the fourth example, a React application written, take the following steps
 $ npm install
 $ ./node_modules/.bin/parcel index.html
 ```
+
+Then open http://localhost:1234 in your web browser.
